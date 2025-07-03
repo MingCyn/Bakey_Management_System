@@ -1,0 +1,27 @@
+Bread,B01,Sourdough Loaf,12,0,0,150
+Bread,B02,Multigrain Bread,13,0,0,17
+Bread,B03,Baguette,10,0,0,35
+Bread,B04,Brioche,14,0,0,14
+Bread,B05,Ciabatta,12,0,0,0
+Bread,B06,Rye Bread,13,0,0,11
+Bread,B07,Focaccia,15,20,12,10
+Pastries,P01,Croissant,7,0,0,79
+Pastries,P02,Egg Tart,5.5,0,0,124
+Pastries,P03,Macaron,4,0,0,33
+Pastries,P04,Cinnamon Roll,8,0,0,42
+Pastries,P05,Tiramisu,16,0,0,64
+Pastries,P06,Puff Pastry Tartlets,10,0,0,0
+Cakes,C01,Chiffon Cake,25,15,21.25,39
+Cakes,C02,Chocolate Fudge Cake,30,0,0,4
+Cakes,C03,Red Velvet Cake,28,0,0,0
+Cakes,C04,Cheesecake,35,0,0,40
+Cakes,C05,Swiss Roll,12,0,0,0
+Cakes,C06,Lemon Drizzle Cake,20,0,0,21
+Cakes,C07,Black Forest Cake,36,20,28.80,0
+Cookies,K01,Chocolate Chip Cookies,3,0,0,219
+Cookies,K02,Oatmeal Raisin Cookies,3.5,0,0,29
+Cookies,K03,Shortbread Cookies,3,0,0,24
+Cookies,K04,Sugar Cookies,3,0,0,0
+Cookies,K05,Peanut Butter Cookies,3.5,0,0,110
+Cookies,K06,Gingerbread Cookiess,4,0,0,75
+Cookies,K07,Double Chocolate Chip Cookies,4.00,0,4.00,0

@@ -1,0 +1,7 @@
+MA01,manager
+CA01,cashier
+CA02,cashier
+BA01,baker
+BA02,baker
+BA03,baker
+BA04,baker

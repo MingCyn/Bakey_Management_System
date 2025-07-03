@@ -1,0 +1,75 @@
+ORD001,CART_E001,B01,Sourdough Loaf,5,60.00,E001,Completed,e-wallet,2024-10-01 11:33:43
+ORD001,CART_E001,B02,Multigrain Bread,2,26.00,E001,Completed,e-wallet,2024-10-01 11:33:43
+ORD001,CART_E001,B04,Brioche,4,56.00,E001,Completed,e-wallet,2024-10-01 11:33:43
+ORD002,CART_E001,B05,Ciabatta,2,24.00,E001,Completed,e-wallet,2024-10-01 11:34:32
+ORD002,CART_E002,B06,Rye Bread,1,13.00,E002,Completed,e-wallet,2024-10-01 11:34:32
+ORD002,CART_E002,B01,Sourdough Loaf,1,12.00,E002,Completed,e-wallet,2024-10-01 11:34:32
+ORD003,CART_E005,B02,Multigrain Bread,3,39.00,E005,Completed,Credit/Debit card,2024-10-01 11:35:27
+ORD004,CART_E005,B05,Ciabatta,1,12.00,E005,Completed,Credit/Debit card,2024-10-02 09:04:06
+ORD004,CART_E005,C01,Chiffon Cake,4,85.00,E005,Completed,Credit/Debit card,2024-10-02 09:04:06
+ORD005,CART_E007,K03,Shortbread Cookies,4,12.00,E007,Completed,e-wallet,2024-10-02 22:29:45
+ORD006,CART_E001,K04,Sugar Cookies,2,6.00,E001,Completed,e-wallet,2024-10-02 22:47:32
+ORD007,CART_E001,K02,Oatmeal Raisin Cookies,1,3.50,E001,Completed,e-wallet,2024-10-02 22:54:45
+ORD007,CART_E001,K03,Shortbread Cookies,1,3.00,E001,Completed,e-wallet,2024-10-02 22:54:45
+ORD008,CART_E001,K03,Shortbread Cookies,1,3.00,E001,Completed,e-wallet,2024-10-03 08:54:22
+ORD008,CART_E001,C02,Chocolate Fudge Cake,2,60.00,E001,Completed,e-wallet,2024-10-03 08:54:22
+ORD009,CART_E001,C06,Lemon Drizzle Cake,2,40.00,E001,Completed,Credit/Debit card,2024-10-03 10:30:30
+ORD009,CART_E001,K03,Shortbread Cookies,2,6.00,E001,Completed,Credit/Debit card,2024-10-03 10:30:30
+ORD010,CART_E001,C03,Red Velvet Cake,2,56.00,E001,Completed,Credit/Debit card,2024-10-03 10:38:18
+ORD011,CART_E001,K02,Oatmeal Raisin Cookies,2,7.00,E001,Completed,e-wallet,2024-10-06 20:45:47
+ORD011,CART_E001,K06,Gingerbread Cookiess,21,84.00,E001,Completed,e-wallet,2024-10-06 20:45:47
+ORD012,CART_E001,K05,Peanut Butter Cookies,4,14.00,E001,Completed,Credit/Debit card,2024-10-06 20:46:58
+ORD012,CART_E001,K03,Shortbread Cookies,6,18.00,E001,Completed,Credit/Debit card,2024-10-06 20:46:58
+ORD013,CART_E001,K02,Oatmeal Raisin Cookies,2,7.00,E001,Completed,Credit/Debit card,2024-10-07 19:06:27
+ORD014,CART_E001,P03,Macaron,6,24.00,E001,Completed,e-wallet,2024-10-07 23:27:52
+ORD014,CART_E001,P05,Tiramisu,3,48.00,E001,Completed,e-wallet,2024-10-07 23:27:52
+ORD015,CART_E001,B01,Sourdough Loaf,4,48.00,E005,Completed,Credit/Debit card,2024-10-07 23:42:30
+ORD015,CART_E001,P03,Macaron,12,48.00,E005,Completed,Credit/Debit card,2024-10-07 23:42:30
+ORD016,CART_E001,C02,Chocolate Fudge Cake,2,60.00,E001,Completed,e-wallet,2024-10-07 23:44:19
+ORD017,CART_E001,P03,Macaron,12,48.00,E001,Completed,e-wallet,2024-10-08 08:35:04
+ORD017,CART_E001,B02,Multigrain Bread,2,26.00,E001,Completed,e-wallet,2024-10-08 08:35:04
+ORD018,CART_E001,K01,Chocolate Chip Cookies,20,60.00,E001,Completed,Credit/Debit card,2024-10-08 08:45:21
+ORD018,CART_E001,P03,Macaron,40,160.00,E001,Completed,Credit/Debit card,2024-10-08 08:45:21
+ORD019,CART_E001,C03,Red Velvet Cake,4,112.00,E001,Completed,e-wallet,2024-10-08 08:47:33
+ORD020,CART_E001,K02,Oatmeal Raisin Cookies,5,17.50,E001,Completed,e-wallet,2024-10-08 08:52:16
+ORD021,CART_E001,P01,Croissant,4,28.00,E003,Completed,e-wallet,2024-10-08 08:54:33
+ORD021,CART_E001,K03,Shortbread Cookies,1,3.00,E003,Completed,e-wallet,2024-10-08 08:54:33
+ORD022,CART_E001,P03,Macaron,9,36.00,E001,Completed,Credit/Debit card,2024-10-12 22:12:45
+ORD023,CART_E001,P06,Puff Pastry Tartlets,4,40.00,E003,Completed,Credit/Debit card,2024-10-12 22:17:44
+ORD023,CART_E001,C04,Cheesecake,2,70.00,E003,Completed,Credit/Debit card,2024-10-12 22:17:44
+ORD023,CART_E001,K05,Peanut Butter Cookies,6,21.00,E003,Completed,Credit/Debit card,2024-10-12 22:17:44
+ORD024,CART_E001,B02,Multigrain Bread,5,65.00,E002,Completed,e-wallet,2024-10-15 22:18:39
+ORD024,CART_E001,C04,Cheesecake,3,105.00,E002,Completed,e-wallet,2024-10-15 22:18:39
+ORD024,CART_E001,K04,Sugar Cookies,8,24.00,E002,Completed,e-wallet,2024-10-15 22:18:39
+ORD025,CART_E001,C04,Cheesecake,2,70.00,E001,Completed,e-wallet,2024-10-25 01:10:08
+ORD025,CART_E001,P05,Tiramisu,2,32.00,E001,Completed,e-wallet,2024-10-25 01:10:08
+ORD025,CART_E001,P03,Macaron,4,16.00,E001,Completed,e-wallet,2024-10-25 01:10:08
+ORD026,CART_E002,P03,Macaron,1,4.00,E002,Completed,e-wallet,2024-10-25 11:22:37
+ORD027,CART_E002,C02,Chocolate Fudge Cake,1,30.00,E002,Completed,Credit/Debit card,2024-10-25 11:26:12
+ORD028,CART_E002,K06,Gingerbread Cookiess,4,16.00,E002,Completed,Credit/Debit card,2024-10-25 11:29:51
+ORD029,CART_E001,K02,Oatmeal Raisin Cookies,5,17.50,E001,Completed,Credit/Debit card,2024-10-25 13:01:06
+ORD029,CART_E001,C05,Swiss Roll,6,72.00,E001,Completed,Credit/Debit card,2024-10-25 13:01:06
+ORD030,CART_E001,P05,Tiramisu,7,112.00,E001,Completed,e-wallet,2024-10-25 13:01:53
+ORD030,CART_E001,K01,Chocolate Chip Cookies,5,15.00,E001,Completed,e-wallet,2024-10-25 13:01:53
+ORD031,CART_E005,K01,Chocolate Chip Cookies,4,12.00,E005,Completed,e-wallet,2024-10-25 18:55:37
+ORD031,CART_E005,C06,Lemon Drizzle Cake,3,60.00,E005,Completed,e-wallet,2024-10-25 18:55:37
+ORD031,CART_E005,B03,Baguette,2,20.00,E005,Completed,e-wallet,2024-10-25 18:55:37
+ORD032,CART_E006,B07,Focaccia,2,24.00,E006,Completed,e-wallet,2024-10-25 19:03:51
+ORD032,CART_E006,K01,Chocolate Chip Cookies,5,15.00,E006,Completed,e-wallet,2024-10-25 19:03:51
+ORD033,CART_E003,K01,Chocolate Chip Cookies,3,9.00,E003,Completed,e-wallet,2024-10-25 19:11:59
+ORD034,CART_E001,K01,Chocolate Chip Cookies,5,15.00,E001,Completed,e-wallet,2024-10-25 19:28:13
+ORD034,CART_E001,P01,Croissant,1,7.00,E001,Completed,e-wallet,2024-10-25 19:28:13
+ORD034,CART_E001,C01,Chiffon Cake,1,29.75,E001,Completed,e-wallet,2024-10-25 19:28:13
+ORD035,CART_E006,P04,Cinnamon Roll,2,16.00,E006,Completed,Credit/Debit card,2024-10-25 19:44:30
+ORD035,CART_E006,C04,Cheesecake,1,35.00,E006,Completed,Credit/Debit card,2024-10-25 19:44:30
+ORD035,CART_E006,K02,Oatmeal Raisin Cookies,5,17.50,E006,Completed,Credit/Debit card,2024-10-25 19:44:30
+ORD036,CART_E005,K02,Oatmeal Raisin Cookies,1,3.50,E005,Completed,e-wallet,2024-10-25 20:30:41
+ORD037,CART_E004,K03,Shortbread Cookies,1,3.00,E004,Completed,e-wallet,2024-10-25 21:13:50
+ORD038,CART_E002,C01,Chiffon Cake,3,63.75,E002,Completed,e-wallet,2024-11-01 17:21:58
+ORD038,CART_E002,K06,Gingerbread Cookiess,2,8.00,E002,Completed,e-wallet,2024-11-01 17:21:58
+ORD038,CART_E002,K01,Chocolate Chip Cookies,2,6.00,E002,Completed,e-wallet,2024-11-01 17:21:58
+ORD039,CART_E002,K06,Gingerbread Cookiess,10,40.00,E002,Completed,Credit/Debit card,2024-11-01 17:35:54
+ORD039,CART_E002,C06,Lemon Drizzle Cake,12,240.00,E002,Completed,Credit/Debit card,2024-11-01 17:35:54
+ORD040,CART_E009,C03,Red Velvet Cake,8,224.00,E009,Processing,e-wallet,2024-11-16 19:37:47
+ORD041,CART_E002,C04,Cheesecake,1,35.00,E002,Processing,Credit/Debit card,2025-01-27 00:37:02
+ORD041,CART_E002,K01,Chocolate Chip Cookies,1,3.00,E002,Processing,Credit/Debit card,2025-01-27 00:37:02

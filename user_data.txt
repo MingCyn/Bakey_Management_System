@@ -1,0 +1,9 @@
+mingcyn@gmail.com,mingcyn123,mingcyn,Tan,manager,MA01,E001
+alex@gmail.com,alexliew123,alex,liew,customer,0,E002
+sinyilai@gmail.com,sinyiiiiiiii,yi,sin,customer,0,E003
+zhilin@gmail.com,zhilin123,ZhiLin,Cheang,customer,0,E004
+kerjinn@gmail.com,kerjinn123,KerJinn,lai,baker,BA01,E005
+bowie@gmail.com,bowie1234,Bowie,Chong,baker,BA02,E006
+cyn@gmail.com,mingcynnnn,Cyn,Ming,cashier,CA01,E007
+jk@gmail.com,junkai123,JunKai,Heng,cashier,CA02,E008
+ritchie@gmail.com,ritchieboon,Ritchie,Boon,customer,0,E009

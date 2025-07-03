@@ -1,0 +1,134 @@
+R001,B01,D001, Combine INGR001 and INGR002 in a large mixing bowl and mix until a rough dough forms.
+R001,B01,D001, Add INGR003 and INGR014, knead the dough for about 10 minutes until smooth.
+R001,B01,D001, Cover the bowl with a damp cloth and let it rest at room temperature for 4-6 hours, or until doubled in size.
+R001,B01,D001, Shape the dough into a loaf and place it in a floured proofing basket.
+R001,B01,D001, Let it proof for another 1-2 hours.
+R001,B01,D001, Preheat the oven to 230°C (450°F) and place a baking stone or tray inside to heat.
+R001,B01,D001, Score the top of the loaf and transfer it to the hot baking stone. Bake for 40 minutes.
+R001,B01,D001, Allow the loaf to cool completely before slicing.
+R002,B02,D002, In a large bowl, mix INGR001, INGR002, and INGR003.
+R002,B02,D002, Add INGR004 and INGR015, and knead until a soft dough forms.
+R002,B02,D002, Cover and let it rise for 1-2 hours until doubled in size.
+R002,B02,D002, Shape into a loaf and place in a greased loaf pan.
+R002,B02,D002, Let it rise again for about 1 hour.
+R002,B02,D002, Preheat the oven to 180°C (350°F) and bake for 35-40 minutes.
+R002,B02,D002, Cool in the pan for 10 minutes before transferring to a wire rack.
+R003,B03,D003, In a mixing bowl, combine INGR001, INGR002, and INGR003.
+R003,B03,D003, Add INGR004 and knead for about 10 minutes.
+R003,B03,D003, Let the dough rise for 1-2 hours until it has doubled in size.
+R003,B03,D003, Divide the dough into two pieces and shape into baguettes.
+R003,B03,D003, Let them proof on a floured surface for 30-60 minutes.
+R003,B03,D003, Preheat the oven to 220°C (428°F) and bake for 25 minutes.
+R003,B03,D003, Cool on a wire rack before slicing.
+R004,B04,D004, In a large mixing bowl, combine INGR001, INGR006, INGR007, INGR002, INGR003, and INGR004.
+R004,B04,D004, Mix until the dough is smooth and elastic, about 10 minutes.
+R004,B04,D004, Cover and let it rise for 2-4 hours until doubled in size.
+R004,B04,D004, Shape the dough into a loaf and place it in a greased loaf pan.
+R004,B04,D004, Let it rise again for 1 hour.
+R004,B04,D004, Preheat the oven to 180°C (350°F) and bake for 35-40 minutes.
+R004,B04,D004, Cool in the pan for 10 minutes before transferring to a wire rack.
+R005,B05,D005, Mix INGR001, INGR002, and INGR003 in a bowl until a sticky dough forms.
+R005,B05,D005, Add INGR004 and INGR016, and knead for about 10 minutes.
+R005,B05,D005, Cover and let it rise for 1-2 hours.
+R005,B05,D005, Shape the dough into a rectangle and place it on a floured surface.
+R005,B05,D005, Let it proof for another hour.
+R005,B05,D005, Preheat the oven to 220°C (428°F) and bake for 25-30 minutes.
+R005,B05,D005, Cool on a wire rack before slicing.
+R006,B06,D006, In a bowl, combine INGR001, INGR002, INGR003, INGR004, and INGR017.
+R006,B06,D006, Mix until a dough forms and knead for about 10 minutes.
+R006,B06,D006, Let it rise for 1-2 hours until doubled in size.
+R006,B06,D006, Shape the dough into a loaf and place in a greased pan.
+R006,B06,D006, Let it proof for 1 hour.
+R006,B06,D006, Preheat the oven to 180°C (350°F) and bake for 40 minutes.
+R006,B06,D006, Cool in the pan for 10 minutes before transferring to a wire rack.
+R007,B07,D007, Combine INGR001, INGR002, INGR003, INGR004, and INGR016 in a bowl.
+R007,B07,D007, Knead the dough for about 10 minutes until smooth.
+R007,B07,D007, Let it rise for 1-2 hours.
+R007,B07,D007, Shape the dough into a rectangle and place it on a greased baking tray.
+R007,B07,D007, Dimple the surface with your fingers and sprinkle with INGR018 if using.
+R007,B07,D007, Let it proof for 30-60 minutes.
+R007,B07,D007, Preheat the oven to 200°C (392°F) and bake for 20-25 minutes.
+R007,B07,D007, Cool on a wire rack before slicing.
+R008,P01,D008, In a bowl, mix INGR001, INGR006, INGR007, INGR002, INGR003, and INGR004.
+R008,P01,D008, Knead until the dough is smooth and let it rest for 30 minutes.
+R008,P01,D008, Roll out the dough and fold in INGR006 to create layers.
+R008,P01,D008, Let the dough chill in the fridge for 1 hour.
+R008,P01,D008, Roll out again and cut into triangles.
+R008,P01,D008, Shape the triangles into croissants and let rise for 1 hour.
+R008,P01,D008, Preheat the oven to 200°C (392°F) and bake for 20 minutes.
+R008,P01,D008, Cool before serving.
+R009,P02,D009, In a bowl, combine INGR001, INGR006, INGR007, INGR005, and INGR008 to form a pastry dough.
+R009,P02,D009, Roll out the dough and line tart pans.
+R009,P02,D009, Preheat the oven to 200°C (392°F).
+R009,P02,D009, In a separate bowl, whisk together INGR007, INGR005, and INGR008.
+R009,P02,D009, Pour the mixture into the prepared tart shells.
+R009,P02,D009, Bake for 15-20 minutes until set.
+R009,P02,D009, Cool before serving.
+R010,P03,D010, Sift INGR019 into a large mixing bowl and set aside.
+R010,P03,D010, Whisk INGR007 until soft peaks form. Gradually add half of INGR005 and continue whisking until stiff and glossy.
+R010,P03,D010, Fold INGR019 into the whisked INGR007 in batches. Mix until the batter flows like lava. Add INGR010 and incorporate fully.
+R010,P03,D010, Transfer the batter into a piping bag and pipe small circles onto a parchment-lined baking sheet. Tap the sheet to release air bubbles.
+R010,P03,D010, Rest the macarons at room temperature for 30-60 minutes until a skin forms and they are no longer sticky to touch.
+R010,P03,D010, Preheat the oven to 150°C (300°F) and bake for 15-18 minutes. Let the macarons cool completely.
+R010,P03,D010, Pair the cooled macaron shells and fill with your preferred filling. Let them mature in the fridge for at least 24 hours before serving.
+R011,P04,D011, Combine INGR001, INGR002, INGR003, INGR004, INGR005, INGR006, and INGR007 in a bowl.
+R011,P04,D011, Knead the dough until smooth, about 10 minutes.
+R011,P04,D011, Let it rise for 1-2 hours until doubled in size.
+R011,P04,D011, Roll out the dough, spread with butter, and sprinkle with cinnamon and sugar.
+R011,P04,D011, Roll into a log and cut into slices.
+R011,P04,D011, Place in a greased baking dish and let rise for another 30-60 minutes.
+R011,P04,D011, Preheat the oven to 180°C (350°F) and bake for 20-25 minutes.
+R012,P05,D012, Whisk INGR007 until soft peaks form.
+R012,P05,D012, Gradually add INGR005 and mix well.
+R012,P05,D012, In another bowl, mix INGR021, INGR013, and INGR022.
+R012,P05,D012, Fold the whipped INGR007 into the mascarpone mixture.
+R012,P05,D012, Layer ladyfingers soaked in coffee with the mascarpone mixture.
+R012,P05,D012, Refrigerate for at least 4 hours before serving.
+R013,P06,D013, Combine INGR001, INGR002, INGR005, INGR006, and INGR007 in a bowl.
+R013,P06,D013, Roll out the dough and cut into tartlet shapes.
+R013,P06,D013, Fill with your choice of filling and bake at 180°C (350°F) for 15-20 minutes.
+R014,C01,D014, Mix INGR001, INGR005, INGR007, INGR008, INGR010, and INGR009 in a bowl.
+R014,C01,D014, Pour into a cake pan and bake at 160°C (320°F) for 45-50 minutes.
+R014,C01,D014, Let cool before removing from the pan.
+R015,C02,D015, Combine INGR001, INGR005, INGR006, INGR007, INGR009, and INGR011 in a bowl.
+R015,C02,D015, Pour into a greased cake pan and bake at 180°C (350°F) for 30-35 minutes.
+R015,C02,D015, Allow to cool and frost with INGR013.
+R016,C03,D016, Mix INGR001, INGR005, INGR006, INGR007, INGR009, INGR011, and INGR024 in a bowl.
+R016,C03,D016, Pour into cake pans and bake at 180°C (350°F) for 30-35 minutes.
+R016,C03,D016, Allow to cool and frost with INGR012.
+R017,C04,D017, Mix INGR001, INGR005, INGR007, INGR010, INGR012, and INGR013 in a bowl.
+R017,C04,D017, Pour into a graham cracker crust and bake at 160°C (320°F) for 50-60 minutes.
+R017,C04,D017, Chill before serving.
+R018,C05,D018, Combine INGR001, INGR005, INGR007, INGR010, and INGR011 in a bowl.
+R018,C05,D018, Pour into a lined baking sheet and bake at 180°C (350°F) for 15-20 minutes.
+R018,C05,D018, Roll while warm and fill with your choice of filling.
+R019,C06,D019, Mix INGR001, INGR005, INGR006, INGR007, and INGR009 in a bowl.
+R019,C06,D019, Add INGR026 and pour into a loaf pan.
+R019,C06,D019, Bake at 180°C (350°F) for 45-50 minutes.
+R020,C07,D020, Combine INGR001, INGR005, INGR007, INGR011, INGR012, and INGR013 in a bowl.
+R020,C07,D020, Pour into cake pans and bake at 180°C (350°F) for 30-35 minutes.
+R020,C07,D020, Layer with cherries and cream before serving.
+R021,K01,D021, Cream together INGR006 and INGR005 in a bowl.
+R021,K01,D021, Beat in INGR007 and add INGR001, INGR011, and INGR028.
+R021,K01,D021, Drop spoonfuls onto a baking sheet and bake at 180°C (350°F) for 10-12 minutes.
+R022,K02,D022, Combine INGR001, INGR006, INGR005, INGR007, INGR029, and INGR030 in a bowl.
+R022,K02,D022, Drop spoonfuls onto a baking sheet and bake at 180°C (350°F) for 10-12 minutes.
+R023,K03,D023, Mix together INGR001, INGR006, and INGR005 until smooth.
+R023,K03,D023, Shape into rounds and place on a baking sheet.
+R023,K03,D023, Bake at 160°C (320°F) for 15-20 minutes.
+R024,K04,D024, Cream together INGR006 and INGR005 in a bowl.
+R024,K04,D024, Beat in INGR007 and add INGR001 and INGR010.
+R024,K04,D024, Roll out and cut into shapes before baking at 180°C (350°F) for 10-12 minutes.
+R025,K05,D025, Mix INGR001, INGR006, INGR005, INGR007, and INGR031 in a bowl.
+R025,K05,D025, Drop spoonfuls onto a baking sheet and bake at 180°C (350°F) for 10-12 minutes.
+R026,K06,D026, Combine INGR001, INGR006, INGR005, INGR007, INGR032, and INGR033 in a bowl.
+R026,K06,D026, Roll out and cut into shapes.
+R026,K06,D026, Bake at 180°C (350°F) for 10-12 minutes.
+R027,K07,D027,Preheat oven to 175�C (350�F). Line baking sheets with parchment paper.
+R027,K07,D027,In a bowl, whisk together INGR001 INGR011 and INGR003
+R027,K07,D027,In another bowl, cream together INGR006, INGR005 (Brown Sugar), and INGR005 (Granulated Sugar) until light and fluffy.
+R027,K07,D027,Beat in the INGR007 and INGR010 until combined.
+R027,K07,D027,Gradually mix in the dry ingredients until just combined, then fold in the INGR028.
+R027,K07,D027,Scoop dough onto prepared baking sheets, spacing cookies about 2 inches apart
+R027,K07,D027,Bake for 10-12 minutes or until edges are set but centers are soft.
+R027,K07,D027,Allow cookies to cool on baking sheets for a few minutes before transferring to wire racks to cool completely.
