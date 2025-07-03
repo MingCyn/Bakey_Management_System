@@ -1,0 +1,27 @@
+B01, D001, INGR001: 500g, INGR002: 350g, INGR003: 10g, INGR014: 100g, 1 loaf, 30 minutes, 4-6 hours, 40 minutes
+B02, D002, INGR001: 500g, INGR002: 300g, INGR003: 8g, INGR004: 7g, INGR015: 100g, 1 loaf, 25 minutes, 1-2 hours, 35 minutes
+B03, D003, INGR001: 500g, INGR002: 350g, INGR003: 10g, INGR004: 5g, 2 baguettes, 20 minutes, 1-2 hours, 25 minutes
+B04, D004, INGR001: 500g, INGR006: 100g, INGR007: 4 pcs, INGR002: 120g, INGR003: 8g, INGR004: 7g, 1 loaf, 30 minutes, 2-4 hours, 35 minutes
+B05, D005,INGR001: 500g,INGR002: 400g,INGR003: 4,INGR004: 7g,INGR016: 50g, 2 loaves, 20 minutes, 1-2 hours, 25 minutes
+B06, D006, INGR001: 300g, INGR002: 250g, INGR003: 8g, INGR004: 7g, INGR017: 200g, 1 loaf, 25 minutes, 1-2 hours, 40 minutes
+B07, D007, INGR001: 500g, INGR002: 350g, INGR003: 8g, INGR016: 50g, INGR004: 7g, INGR018: 5g , 1 tray, 20 minutes, 1-2 hours, 25 minutes
+P01, D008, INGR001: 500g, INGR006: 250g, INGR007: 3 pcs, INGR002: 200g, INGR003: 8g, INGR004: 7g, 12 croissants, 45 minutes, 2-3 hours, 20 minutes
+P02, D009, INGR001: 300g, INGR006: 150g, INGR007: 2 pcs, INGR005: 100g, INGR008: 200g, 12 tarts, 30 minutes, 1 hour, 15-20 minutes
+P03, D010, INGR005: 200g, INGR007: 3 pcs, INGR019: 120g, INGR010: 1 tsp, 24 macarons , 30 minutes, 30-60 minutes, 15-18 minutes
+P04, D011, INGR001: 500g, INGR006: 100g, INGR005: 150g, INGR007: 2 pcs, INGR002: 250g, INGR003: 8g, INGR004: 7g, INGR020: 10g, 12 rolls, 30 minutes, 1-2 hours, 20-25 minutes
+P05, D012, INGR007: 4 pcs, INGR005: 100g, INGR011: 30g, INGR021: 250g, INGR013: 300g, INGR022: 100g, 1 cake, 30 minutes, 4-6 hours, none
+P06, D013, INGR001: 250g, INGR006: 150g, INGR007: 1 pcs, INGR005: 100g, 12 tartlets, 40 minutes, 30 minutes, 15-20 minutes
+C01, D014, INGR001: 250g, INGR007: 5 pcs, INGR008: 200g, INGR010: 1 tsp, INGR005: 150g, INGR009: 10g, 1 cake, 25 minutes, none, 30-35 minutes
+C02, D015, INGR001: 300g, INGR005: 200g, INGR006: 100g, INGR011: 50g, INGR007: 3 pcs, INGR009: 10g, INGR013: 200g, 1 cake, 30 minutes, none, 35-40 minutes
+C03, D016, INGR001: 300g, INGR005: 200g, INGR007: 3 pcs, INGR006: 100g, INGR011: 20g, INGR009: 10g, INGR024: 1 tbsp, INGR012: 200g (for frosting), 1 cake, 30 minutes, none, 35-40 minutes
+C04, D017, INGR001: 200g, INGR005: 150g, INGR012: 400g, INGR007: 3 pcs, INGR010: 1 tsp, INGR013: 300g, INGR025: 30g, 1 cake, 30 minutes, 4-6 hours, 1 hour
+C05, D018, INGR001: 200g, INGR007: 4 pcs, INGR005: 150g, INGR010: 1 tsp (for Vanilla), INGR011: 20g (for Chocolate), 1 roll, 20 minutes, none, 12-15 minutes
+C06, D019, INGR001: 300g, INGR005: 200g, INGR006: 150g, INGR007: 3 pcs, INGR009: 10g, INGR026: 50g (zest and juice), 1 cake, 25 minutes, none, 35-40 minutes
+C07, D020, INGR001: 300g, INGR005: 200g, INGR007: 3 pcs, INGR011: 30g, INGR012: 250g, INGR013: 300g, INGR027: 200g, 1 cake, 30 minutes, none, 35-40 minutes
+K01, D021, INGR001: 300g, INGR006: 200g, INGR005: 150g, INGR007: 2 pcs, INGR011: 20g, INGR028: 100g, 24 cookies, 20 minutes, none, 12-15 minutes
+K02, D022, INGR001: 300g, INGR006: 200g, INGR005: 150g, INGR007: 2 pcs, INGR029: 100g, INGR030: 100g, 24 cookies, 20 minutes, none, 12-15 minutes
+K03, D023, INGR001: 300g, INGR006: 250g, INGR005: 150g, 24 cookies, 20 minutes, 30 minutes, 10-12 minutes
+K04, D024, INGR001: 300g, INGR006: 200g, INGR005: 150g, INGR007: 2 pcs, INGR010: 1 tsp, 24 cookies, 20 minutes, none, 12-15 minutes
+K05, D025, INGR001: 300g, INGR006: 200g, INGR005: 150g, INGR007: 2 pcs, INGR031: 150g, 24 cookies, 20 minutes, none, 12-15 minutes
+K06, D026, INGR001: 300g, INGR006: 200g, INGR005: 150g, INGR007: 2 pcs, INGR032: 10g, INGR033: 5g, 24 cookies, 20 minutes, none, 12-15 minutes
+K07,D027,INGR001:200.0g,INGR011:30.0g,INGR003:5.0g,INGR006:115.0g,INGR005:200.0g,INGR007:1.0,INGR010:5.0ml,INGR028:200.0g,24 cookies,15 minutes,none,10-12 minutes

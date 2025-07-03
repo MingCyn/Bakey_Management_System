@@ -1,0 +1,21 @@
+E001,Oven,Bakes bread cakes cookies and pastries,available,0
+E002,Mixer,Mixes dough batters and creams,available,0
+E003,Dough Sheeter,Rolls dough into thin sheets,available,0
+E004,Oven,Allows dough to rise by controlling temperature and humidity,available,0
+E005,Dough Divider,Divides large batches of dough into smaller portions,unavailable,Maintenance Needed
+E006,Rolling Pins,Manually flattens and shapes dough,available,0
+E007,Sifter,Sifts dry ingredients to remove clumps,available,0
+E008,Scales,Measures ingredients accurately,available,0
+E009,Baking Trays and Pans,Holds batter or mixtures for baking,unavailable,Maintenance Needed
+E010,Proofing Cabinets,Ensures even cooling of baked goods,available,0
+E011,Pastry Brushes,Applies butter egg wash or glaze,available,0
+E012,Whisks,Whisks wet ingredients or incorporates air,available,0
+E013,Pastry Bags and Tips,Pipes creams icings_ and dough,available,0
+E014,Bench Scrapers,Cuts dough and cleans surfaces,available,0
+E015,Bread Slicer,Slices bread evenly,available,0
+E016,Refrigerator,Stores perishable ingredients and finished products,available,0
+E017,Fryer,Fries bakery items like donuts and churros,unavailable,Maintenance Needed
+E018,Timer and Thermometers,Monitors baking times and internal temperatures,unavailable,Maintenance Needed
+E019,Pastry Cutter,Cuts dough into specific shapes,available,0
+E020,Blender or Food Processor,Blends and mixes ingredients,unavailable,Maintenance Needed
+E021,Cake Decorating Turntable,Allows for easy decorating of cakes by rotating them,available,0

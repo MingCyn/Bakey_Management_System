@@ -1,0 +1,16 @@
+F001,E001,ORD011,K02,The oatmeal raisin cookies were a bit too sweet for my taste
+F002,E001,ORD011,K06,The variety of cookies available is fantastic! 
+F003,E004,ORD012,K05,I tried the peanut butter cookies, and they were fresh and full of flavor. Highly recommend!
+F004,E004,ORD012,K03,The cookies are tasty, but I’d love to see more unique flavors, like matcha or salted caramel
+F005,E003,ORD013,K02,Good
+F006,E005,ORD016,C02,The mini cakes were perfect for our gathering.
+F007,E002,ORD018,K01,These chocolate chip cookies are the best I've ever had! 
+F008,E002,ORD018,P03,Very tasty
+F009,E001,ORD019,C03,I will definitely recommend your bakery to friends!
+F010,E006,ORD037,P04,Deliciously soft and perfectly spiced cinnamon rolls!
+F011,E006,ORD037,C04,It's really smooth and creamy!
+F012,E002,ORD038,C01,Bad
+F013,E002,ORD038,K06,Good yummy
+F014,E002,ORD038,K01,i love it
+F015,E002,ORD039,K06,Nice and yum
+F016,E002,ORD039,C06,None
